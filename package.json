@@ -1,0 +1,22 @@
+{
+  "name": "demoqa-jasminemendes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0",
+    "@badeball/cypress-cucumber-preprocessor": "^23.2.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.6",
+    "@cucumber/cucumber": "^12.2.0",
+    "@faker-js/faker": "^10.0.0",
+    "cypress": "^15.2.0",
+    "ts-loader": "^9.5.4",
+    "webpack": "^5.101.3"
+  }
+}
